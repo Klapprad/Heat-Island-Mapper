@@ -4,9 +4,9 @@ Mapping and analyzing urban heat islands using open data, geospatial analysis, a
 Heat Island Mapper ist ein datengetriebenes Tool, das Urban Heat Islands in Städten sichtbar macht und quantifiziert.
 Es kombiniert offene Datenquellen (OpenStreetMap, Wetter- und Klimadaten, Satellitenbilder) mit Geoanalyse und Machine Learning, um:
 
-    Hitzebelastung in verschiedenen Stadtteilen zu kartieren,
-    den Einfluss von Flächennutzung (z. B. Parkplätze vs. Grünflächen) auf die Temperaturen zu analysieren,
-    Szenarien für Entsiegelung, Begrünung und Flächengerechtigkeit zu simulieren.
+**Hitzebelastung in verschiedenen Stadtteilen kartieren** 
+**Einfluss von Flächennutzung (z. B. Parkplätze vs. Grünflächen) auf die Temperaturen zu analysieren**
+**Szenarien für Entsiegelung, Begrünung und Flächengerechtigkeit zu simulieren**
 
 Die Ergebnisse werden in einem interaktiven Dashboard und Karten visualisiert und bieten so sowohl Bürger:innen als auch Stadtplaner:innen ein Werkzeug, um nachhaltigere Entscheidungen zu treffen.
 
