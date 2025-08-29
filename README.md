@@ -12,9 +12,9 @@ Die Ergebnisse werden in einem interaktiven Dashboard und Karten visualisiert un
 
 
 
-################################### under construction
+###################################
 
-## Features
+## Geplante Features
 - **Urban Heat Mapping**: Visualisierung von Temperatur-Hotspots im Stadtgebiet.  
 - **Geo-Datenintegration**: Nutzung offener Quellen wie OSM, Wetterstationen, Satellitenbildern.  
 - **Flächengerechtigkeit**: Analyse, wie städtischer Raum (Autos, Menschen, Grünfläche) verteilt ist und deren Einfluss auf die Bildung von Urban Heat Islands.  
