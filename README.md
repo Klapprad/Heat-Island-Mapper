@@ -29,13 +29,13 @@ Die Ergebnisse werden in einem interaktiven Dashboard und Karten visualisiert un
 - OpenWeather historical 
 
 
-## Installation
+## RUN
 
 - Python 3.10+  
 - PostgreSQL mit [PostGIS](https://postgis.net/) (für Geodaten)  
 
 ```bash
-git clone https://github.com/USERNAME/heat-island-mapper.git
+git clone https://github.com/Klapprad/heat-island-mapper.git
 cd heat-island-mapper
 
 # Python-Env
