@@ -12,7 +12,7 @@ Idee: Die Ergebnisse in einem interaktiven Dashboard und Karten zu visualisierre
 - Analyse, wie städtischer Raum (Autos, Menschen, Grünfläche) verteilt ist und deren Einfluss auf die Bildung von Urban Heat Islands  
 - Temperaturveränderungen bei Umwidmung von Flächen (z. B. Parkplatz zu Grünfläche)
 
-## Datenquellen & API Key
+## SRC
 - [OpenStreetMap](https://www.openstreetmap.org/) -> Straßen, Gebäude, Parkflächen, Landnutzung  
 - [DWD OpenData](https://opendata.dwd.de/) oder [Open-Meteo](https://open-meteo.com/) -> Wetter- und Klimadaten  
 - [Copernicus / Sentinel-2](https://scihub.copernicus.eu/) -> Vegetation (NDVI), Landbedeckung  
