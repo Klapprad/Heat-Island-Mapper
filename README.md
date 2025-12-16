@@ -17,4 +17,19 @@ Idee: Die Ergebnisse in einem interaktiven Dashboard und Karten zu visualisierre
 - [DWD OpenData](https://opendata.dwd.de/) oder [Open-Meteo](https://open-meteo.com/) -> Wetter- und Klimadaten  
 - [Copernicus / Sentinel-2](https://scihub.copernicus.eu/) -> Vegetation (NDVI), Landbedeckung  
 - [Städtische OpenData-Portale] (Baumkataster, Parkzonen)  
-- OpenWeather historical 
+- OpenWeather historical
+
+## Stand und Aktueller Befund
+Ähnliche Abkühlungsraten wischen den Locations (im Beriech von -4.5°C und -4.2°C) und nur geringe Temperaturunterschiede (~0.2°C Spanne zwischen 17.92°C und 18.11°C). 
+
+Interpretation die Locations in Mannheim sind thermisch sehr homogen. Kein ausgeprägter Urban Heat Island Effekt zwischen den Stadtteilen, alle Standorte haben ähnliche nächtliche Bedingungen. Die gesehenen Unterschiede sind praktisch nicht relevant (< 0.2°C)
+
+ANOVA Test: Nächtliche Temperaturen zwischen Locations
+============================================================
+F-Statistik: 0.226
+p-Wert: 0.923691
+→ Keine signifikanten Unterschiede (p ≥ 0.05)
+
+Next: Oberflächentemperaturen höher auflösen im Bereich von wenigen Metern um Unterschiede besser zu sehen. Vielleicht Fokus auf zeitliche Muster (Hitzewellen, Tropennächte) um Daten/requests zu verschlanken.
+
+
